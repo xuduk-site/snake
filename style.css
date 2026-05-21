@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.reload-button {
+  background: #C700FF;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  transition: background 0.5s ease;
+}
+
+.reload-button:hover {
+  background: #790699;
+}
